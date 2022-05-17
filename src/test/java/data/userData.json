@@ -1,0 +1,32 @@
+[
+  {
+    "firstName" : "Eslam",
+    "lastName" : "Fawzy",
+    "mail" : "eslam41@fawzy.com",
+    "password" : "12345678"
+  },
+  {
+    "firstName" : "Eslam",
+    "lastName" : "Fawzy",
+    "mail" : "eslam42@fawzy.com",
+    "password" : "12345678"
+  },
+  {
+    "firstName" : "Eslam",
+    "lastName" : "Fawzy",
+    "mail" : "eslam43@fawzy.com",
+    "password" : "12345678"
+  },
+  {
+    "firstName" : "Eslam",
+    "lastName" : "Fawzy",
+    "mail" : "eslam44@fawzy.com",
+    "password" : "12345678"
+  },
+  {
+    "firstName" : "Eslam",
+    "lastName" : "Fawzy",
+    "mail" : "eslam45@fawzy.com",
+    "password" : "12345678"
+  }
+]

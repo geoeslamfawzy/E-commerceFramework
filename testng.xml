@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ecommerce Framework">
+    <parameter name="browser" value="chrome"></parameter>
+    <test verbose="2" preserve-order="true" name="Regression Test">
+        <classes>
+            <class name="tests.RegistrationTest"/>
+            <class name="tests.AddProductReviewTest"/>
+            <class name="tests.AddProductToWishlistTest"/>
+            <class name="tests.AddToCartTest"/>
+            <class name="tests.BuyProduct"/>
+            <class name="tests.ChangeCurrencyTest"/>
+            <class name="tests.ChangePasswordTest"/>
+            <class name="tests.CompareTest"/>
+            <class name="tests.ContactUsTest"/>
+            <class name="tests.HoverMenuTest"/>
+            <class name="tests.RegistrationTest"/>
+            <class name="tests.SearchProductTest"/>
+            <class name="tests.SearchUsingAutoSuggestTest"/>
+            <class name="tests.SendMailTest"/>
+            <class name="tests.WishlistTest"/>
+        </classes>
+    </test>
+</suite>
