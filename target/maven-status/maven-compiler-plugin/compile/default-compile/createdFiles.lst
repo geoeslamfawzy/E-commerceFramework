@@ -1,0 +1,17 @@
+pages\BasePage.class
+pages\SearchResultPage.class
+trial\Trial.class
+utilities\WindowManager.class
+pages\ShareByMailPage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\RegisterPage.class
+pages\ContactUsPage.class
+pages\AddToCartPage.class
+pages\SearchPage.class
+pages\CheckoutPage.class
+pages\OrderDetailsPage.class
+pages\WishlistPage.class
+pages\ProductComparisonPage.class
+pages\AddReviewPage.class
+pages\MyAccountPage.class
